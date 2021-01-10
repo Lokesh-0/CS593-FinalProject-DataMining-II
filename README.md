@@ -1,1 +1,1 @@
-# CS593-FinalProject-DataMining-II
+# DataMining-II-Term Deposit Presiction
